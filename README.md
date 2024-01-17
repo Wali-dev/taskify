@@ -3,8 +3,6 @@
 
 ## Demo
 
-https://github.com/anur4ag/Taskify-taskManager/assets/71564387/4de711b6-ce76-41dd-b126-f87ef252d80e
-
 ## Getting Started
 
 ### Tech Stack
